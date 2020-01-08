@@ -19,5 +19,5 @@ class dog
     @@all.clear
     
     def save
-      
+      @all << self
 end
